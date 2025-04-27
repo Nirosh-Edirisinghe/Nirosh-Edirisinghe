@@ -6,15 +6,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nirosh-edirisinghe&label=Profile%20views&color=0e75b6&style=flat" alt="nirosh-edirisinghe" /> </p>
 
-- 🔭 I’m currently working on **Ai Voise Assistant**
+- 🔭 I'm currently sharpening my skills in frontend development, crafting dynamic and engaging user experiences.**
 
 - 🧑‍🎓 I’m an Undergraduate at **Rajarata University Of Sri Lanka**
 
-- 🌱 I’m currently learning **java**
+- 💬 Ask me about **JavaScript,Tailwind CSS,React.js, Next.js**
 
-- 💬 Ask me about **java**
-
-- 📫 How to reach me **nirosh1111me@gmail.com**
+- 📫 How to reach me **nirosh.p.edirisinghe@gmail.com**
 
 ---
 
